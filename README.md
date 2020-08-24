@@ -8,7 +8,7 @@ More details: cxemka.com
   ![alt text](https://cxemka.com/upload/art/zero%20cross/git/cx1.png)
  ## Simulation
  ![alt text](https://cxemka.com/upload/art/zero%20cross/git/big.png)
- ## Oscillogram
+ ## Oscillograms
    ![alt text](https://cxemka.com/upload/art/zero%20cross/git/oscl.jpg)
  ## Debug
   ![alt text](https://cxemka.com/upload/art/zero%20cross/git/test.png)
