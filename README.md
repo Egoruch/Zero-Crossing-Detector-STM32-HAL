@@ -6,9 +6,9 @@ More details: cxemka.com
 * HAL
  ## Circuits
   ![alt text](https://cxemka.com/upload/art/zero%20cross/git/cx1.png)
- ## Simulation (MicroCap 12)
+ ## Simulation
  ![alt text](https://cxemka.com/upload/art/zero%20cross/git/big.png)
- ## Oscilloscope (DSO138)
+ ## Oscillogram
    ![alt text](https://cxemka.com/upload/art/zero%20cross/git/oscl.jpg)
- ## Debug (STM32CubeIDE)
+ ## Debug
   ![alt text](https://cxemka.com/upload/art/zero%20cross/git/test.png)
