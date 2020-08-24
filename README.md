@@ -4,7 +4,7 @@ Two simple circuits (electrically isolated and non-isolated) of zero-crossing de
 * STM32CubeIDE
 * HAL
  ## Electrical circuits
- <img width="1000" src="https://cxemka.com/upload/art/zero%20cross/git/cx1.png">
+  ![alt text](https://cxemka.com/upload/art/zero%20cross/git/cx1.png)
  ## Simulation (MicroCap 12)
  ![alt text](https://cxemka.com/upload/art/zero%20cross/git/big.png)
  ## Oscilloscope (DSO138)
