@@ -4,7 +4,7 @@ Two simple circuits (electrically isolated and non-isolated) of zero-crossing de
  ![alt text](https://cxemka.com/upload/art/zero%20cross/git/cx1.png)
  ## Simulation (MicroCap 12)
  ![alt text](https://cxemka.com/upload/art/zero%20cross/git/big.png)
- ## Oscilloscope
+ ## Oscilloscope (DSO138)
    ![alt text](https://cxemka.com/upload/art/zero%20cross/git/oscl.jpg)
- ## Debug
+ ## Debug (STM32CubeIDE)
   ![alt text](https://cxemka.com/upload/art/zero%20cross/git/test.png)
