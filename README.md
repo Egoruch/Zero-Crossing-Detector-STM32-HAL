@@ -1,6 +1,7 @@
 # Zero-Crossing-Detector-STM32-HAL
 Two simple circuits (electrically isolated and non-isolated) of zero-crossing detector of main's AC.
-More details: cxemka.com
+Article (rus): https://cxemka.com/62-detektor-perehoda-cherez-nol-s-galvanicheskoi-razvjazkoi-i-bez-neyo.html
+Youtube (CC): https://www.youtube.com/watch?v=oTmkZlAcVUI
 * STM32F103C8
 * STM32CubeIDE
 * HAL
